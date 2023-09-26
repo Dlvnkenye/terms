@@ -1,4 +1,3 @@
-
 <img src="https://github.com/Dlvnkenye/terms/blob/main/logo520.png"  width="128" height="128">
 
 # JiGoot Merchant Security Terms
