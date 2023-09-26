@@ -19,7 +19,7 @@ A marchant portal is a proprietary JiGoot user interface which allow partner to 
 
 2.2 The marchant owner and manager are responsible for safeguarding and protecting the privacy of their customers, couriers and staff. They should only access and use the personal information they collect or receive from JiGoot for the purpose of fulfilling orders, providing customer service, and complying with applicable laws and regulations.
 
-2.3 The merchant owner and manager should be aware of the potential risk and threats to their data security and privacy, such as phishing, malware, identity theft, fraud, etc. They should report any suspicious or unauthorized activity on their account or device to JiGoot immediately.
+2.3 The merchant *owner and manager* should be aware of the potential risk and threats to their data security and privacy, such as phishing, malware, identity theft, fraud, etc. They should report any suspicious or unauthorized activity on their account or device to JiGoot immediately.
 
 2.4 The merchant owner and manager, should review and understand the terms and policies that govern their relationship with JiGoot, such as the Merchant terms of service, the merchant Privacy policy, the courier background check FAQ, JiGoot community guideline, etc. They agree to stay informed of any updates or changes to these terms and policies.
 
