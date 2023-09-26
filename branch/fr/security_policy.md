@@ -3,7 +3,7 @@
 # Conditions de sécurité des marchands JiGoot
 
 
-Un portail marchant est une interface utilisateur de JiGoot telle que l'application JiGoot Branch et le panneau d'administration JiGoot Marchant qui permettent aux partenaires de gérer soit leurs comptes fournisseurs, soit leurs comptes de succursale.
+Un portail marchant est une interface utilisateur de JiGoot telle que l'application **JiGoot Branch** et le **panneau d'administration JiGoot Marchant** qui permettent aux partenaires de gérer soit leurs comptes fournisseurs, soit leurs comptes de succursale.
 
 
 
