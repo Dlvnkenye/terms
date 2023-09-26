@@ -1,3 +1,5 @@
+![logo]()
+
 # JiGoot Merchant Security Terms
 
 
