@@ -6,6 +6,7 @@
 A marchant portal is a proprietary JiGoot user interface which allow partner to manage either their supplier accounts or branch accounts, such as JiGoot Branch app and JiGoot Marchant admin panel. 
 
 
+
 ### I. Access
 
 1.1 Access to the Merchant Portal, it contents and it resources, is restricted to merchant owner and manager. **By accessing the Merchant Portal, you agree that you are directly bound by this Terms**. You also agree that these Terms are binding on your successors, affiliates, subsidiaries, and assigns. These Terms shall supersede any other terms or agreements governing your access to the Merchant Portal.
@@ -13,6 +14,7 @@ A marchant portal is a proprietary JiGoot user interface which allow partner to 
 1.2 **Access to the Merchant Portal by any third parties** (including any agent or authorized representative of a merchant) through any means (including programmatic or bot access to APIs that JiGoot makes available to merchants) **is prohibited**.
 
 1.3 **Unauthorized access to the Merchant Portal compromises the security and stability in the platform for everyone**. You acknowledge and agree that **you shall be liable** to JiGoot **in the amount of $100** in liquidated damages **for each unauthorized access or API call**, which you agree is a reasonable approximation of the harm to JiGoot caused by the risks of instability brought about by unauthorized access to the Merchant Portal, among other harms, which are by their nature difficult to precisely ascertain.
+
 
 
 ### II. Responsibility
@@ -28,5 +30,6 @@ A marchant portal is a proprietary JiGoot user interface which allow partner to 
 
 
 ### Information
-Publication date **.**.2023
-Effective date  **.**.2023
+
+Publication date 28.sep.2023\
+Effective date  28.sep.2023
