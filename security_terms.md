@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Dlvnkenye/terms/blob/main/logo520.png)
 
 # JiGoot Merchant Security Terms
 
