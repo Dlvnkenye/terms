@@ -3,23 +3,23 @@
 # Conditions de sécurité des marchands JiGoot
 
 
-Un portail marchant est une interface utilisateur de JiGoot telle que l'application **JiGoot Branch** et le **panneau d'administration JiGoot Marchant** qui permettent aux partenaires de gérer soit leurs comptes fournisseurs, soit leurs comptes de succursale.
+Un portail marchant est une interface utilisateur de JiGoot telle que le **panneau d'administration JiGoot Marchant** et l'application **JiGoot Branch** qui permettent aux partenaires de gérer soit leurs comptes fournisseurs, soit leurs comptes de succursale.
 
 
 
 ### I. De l'Accès
 
-1.1 L'accès au portail marchand, à son contenu et à ses ressources, est réservé au propriétaire et au gestionnaire du commerçant. **En accédant au portail marchand, vous acceptez d'être directement lié par ces conditions**. Vous acceptez également que ces Conditions lient vos successeurs, sociétés affiliées, filiales et ayants droit. Ces conditions remplacent toutes autres conditions ou accords régissant votre accès au portail marchand.
+1.1 L'accès au portail marchand, à son contenu et à ses ressources est réservé au propriétaire ou leurs gestionnaires de succursales. **En accédant au portail marchand, vous acceptez d'être directement lié par ces conditions**. Vous acceptez également que ces Conditions lient vos successeurs, sociétés affiliées, filiales et ayants droit. Ces conditions remplacent toutes autres conditions ou accords régissant votre accès au portail marchand.
 
 1.2 **L'accès au portail marchand par des tiers** (y compris tout agent ou représentant autorisé d'un commerçant) par quelque moyen que ce soit (y compris l'accès par programmation ou par robot aux API que JiGoot met à la disposition des commerçants) **est interdit**.
 
-1.3 **L'accès non autorisé au portail marchand compromet la sécurité et la stabilité de la plateforme pour tout le monde**. Vous reconnaissez et acceptez que **vous serez responsable** envers JiGoot **d'un montant de 100 $** en dommages-intérêts **pour chaque accès non autorisé ou appel API**, ce qui, selon vous, est une approximation raisonnable du préjudice causé à JiGoot causé par les risques d'instabilité provoqués par un accès non autorisé au Portail Marchand, entre autres dommages, qui sont par nature difficiles à déterminer avec précision.
+1.3 **L'accès non autorisé au portail marchand compromet la sécurité et la stabilité de la plateforme pour tout le monde**. le partenaire reconnait et accepte donc de **payer à JiGoot un montant de 100 $** en dommages-intérêts **pour chaque accès non autorisé ou requêtes API**, ce qui, selon lui, est une approximation raisonnable du préjudice causé à JiGoot par les risques d'instabilité provoqués par un accès non autorisé au Portail Marchand de JiGoot, entre autres dommages, qui sont par nature difficiles à déterminer avec précision.
 
 
 
 ### II. De Responsabilités
 
-2.1 Le commerçant **propriétaire et gestionnaire** est responsable de la protection de ses informations personnelles et de la sécurité de son compte sur la plateforme JiGoot. Ils doivent utiliser des mots de passe forts et uniques, activer l'authentification à deux facteurs **et ne jamais partager leurs identifiants de connexion avec qui que ce soit**.
+2.1 Le commerçant **propriétaire et gestionnaire** sont responsables de la protection de leurs informations personnelles et de la sécurité de leurs compte sur la plateforme JiGoot. Ils doivent utiliser des mots de passe forts et uniques, activer l'authentification à deux facteurs **et ne jamais partager leurs identifiants de connexion avec qui que ce soit**.
 
 2.2 Le marchant **propriétaire et gestionnaire sont responsables de la sauvegarde et de la protection de la vie privée de leurs clients, coursiers et personnel**. Ils ne doivent accéder et utiliser les informations personnelles qu'ils collectent ou reçoivent de JiGoot que dans le but d'exécuter les commandes, de fournir un service client et de se conformer aux lois et réglementations applicables.
 
