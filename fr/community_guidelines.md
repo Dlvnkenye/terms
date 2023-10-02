@@ -23,6 +23,6 @@ inappropriés.
 
 1.7 ***Les agressions sexuelles de toute sorte sont interdites***, que vous connaissiez ou non la personne.Nous encourageons toute conversation respectueuse et paisible.
 
-1.8 Aucun membre n'est autorisé à partager son compte ou ses identifiants de connexion avec un tier.
+1.8 ***Aucun membre n'est autorisé à partager son compte ou ses identifiants de connexion avec un tier***.
 
 1.9 ***Tout membre est dans l'obligation de fournir des informations exactes et honnêtes sur la plateforme***. Fournir des informations fausses ou trompeuses est contraire aux règles de notre plateforme.
