@@ -23,7 +23,7 @@ inappropriate.
 
 1.7 ***Sexual assault and sexual misconduct of any kind is prohibited***, regardless of whether you know the person. We encourage all respectfull and peacefull conversation. 
 
-1.8 No member is allowed to share their account or login credentials with any third party.
+1.8 ***No member is allowed to share their account or login credentials with any third party***.
 
 1.9 ***Members must provide accurate and honest information on the platform***. Providing false or misleading information is against our platform rules. 
 
