@@ -1,7 +1,7 @@
 <img src="https://github.com/Dlvnkenye/terms/blob/main/logo520.png" width="128" height="128">
 
 # Directives de la communauté JiGoot
-*Dernière mise à jour* : 2 octobre 2023x
+*Dernière mise à jour* : 2 octobre 2023
 </br>
 </br>
 *<p align="center">Les directives de la communauté JiGoot sont destinées à aider à réguler les interactions humaines et à rendre les expériences sur la plateforme JiGoot; Sûres, Respectueuses et Positives. Ainsi tout en fournissant la base du comportement attendu de tous, garantir que tous les membres de la communauté JiGoot se sentent toujours en sécurité et bienvenus.</p>*
