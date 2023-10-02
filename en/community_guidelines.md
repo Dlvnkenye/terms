@@ -6,8 +6,8 @@
 </br>
 *<p align="center">JiGoot Community Guidelines is intended to help regulate human interactions and make experiences in JiGoot Platform feel safe, respectful, and positive. While providing the basis for behavior we expect from all,  we ensure that everybody in JiGoot's community always feels safe and welcome.</p>*
 *<p align="center"> We update our guidelines regularly to address relevant behavior and risks.</p>*
-
-
+</br>
+</br>
 1.1. JiGoot Community Guidelines apply to all its members, including but not limited to customers, delivery agents, owners, managers and JiGoot employees and staff. ***Failing to follow any of the terms in these guidelines constitutes a breach of your agreement*** and may result in suspension, termination, deletion of your account, revocation or reporting to the relevant authorities.
 
 1.2 ***Discriminations regardless of it kind is prohibited on the platform***. JiGoot as a non-discriminatory platform is committed to create and sustain a safe and welcoming space for everyone, regardless of their background. Respect the community's diversity.
