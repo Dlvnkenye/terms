@@ -2,11 +2,11 @@
 
 # Directives de la communauté JiGoot
 
-*<p align="center">Les directives de la communauté JiGoot sont destinées à aider à réguler les interactions humaines et à rendre les expériences sur la plateforme JiGoot sûres, respectueuses et positives. L'objectif de ce document est de garantir que tous les membres de la communauté JiGoot se sentent toujours en sécurité et bienvenus, tout en fournissant la base du comportement que nous attendons de tous les membres de la communauté JiGoot. Nous mettons régulièrement à jour nos directives pour tenir compte des comportements et des risques pertinents.</p>*
-
-
-
-1.1. Les directives de la communauté JiGoot s'appliquent à tous ses membres, y compris, mais sans s'y limiter, les clients, les agents de livraison, les propriétaires, les gestionnaires et les employés et le personnel de JiGoot. ***Le non-respect de l'un des termes de ces directives constitue une violation de votre accord*** et peut entraîner la suspension, la résiliation, la suppression de votre compte, la révocation ou le signalement aux autorités compétentes.
+*<p align="center">Les directives de la communauté JiGoot sont destinées à aider à réguler les interactions humaines et à rendre les expériences sur la plateforme JiGoot; Sûres, Respectueuses et Positives. Ainsi tout en fournissant la base du comportement attendu de tous, garantir que tous les membres de la communauté JiGoot se sentent toujours en sécurité et bienvenus. </p>*
+*<p align="center">Nous mettons régulièrement à jour nos directives pour tenir compte des comportements et des risques pertinents.</p>*
+</br>
+</br>
+1.1. Les directives de la communauté JiGoot s'appliquent à tous ses membres, y compris, mais sans s'y limiter, aux clients, agents de livraison, propriétaires et gestionnaires d'établissement ainsi qu'au personnel de JiGoot. ***Le non-respect de l'un des termes de ces directives constitue une violation de votre accord avec JiGoot*** et peut entraîner la suspension, la résiliation, la suppression de votre compte, votre révocation ou l'intervention des autorités compétentes.
 
 
 1.2 ***Les discriminations quelle qu'en soit la nature sont interdites sur la plateforme***. JiGoot, en tant que plateforme non discriminatoire, s'engage à créer et à maintenir un espace sûr et accueillant pour chacun, quelle que soit son origine. Veuillez respecter la diversité de la communauté.
