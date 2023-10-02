@@ -4,7 +4,7 @@
 *Last updated* : October 2nd, 2023
 </br>
 </br>
-*<p align="center">A marchant portal is a proprietary JiGoot user interface which allow partner to manage either their supplier accounts or branch accounts, such as JiGoot Branch app and JiGoot Marchant admin panel. 
+*<p align="center">A marchant portal is a proprietary JiGoot user interface which allow partner to manage either their supplier accounts or branch accounts, such as JiGoot Branch app and JiGoot Marchant admin panel.</p>* 
 </br>
 </br>
 ### I. Access
