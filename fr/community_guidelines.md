@@ -12,9 +12,9 @@
 
 1.3. ***Chaque membre de la communauté a la responsabilité de contribuer à créer un environnement protecteur, accueillant et non discriminatoire pour tous les membres de JiGoot***.
 
-1.4. ***Traitez tout le monde*** dans la communauté comme vous aimeriez être traité vous-même : ***avec RESPECT***. Les actions entreprises sur la plateforme peuvent avoir un impact important sur la sécurité et le confort des autres. ***La courtoisie est de mise***. Chaque membre de la communauté doit ***faire preuve de bon jugement et se comporter décemment envers les autres***. Le respect n’est pas seulement lié à ce que nous disons ; mais aussi sur la manière dont nous agissons. Par exemple, soyez ponctuel ; ne criez pas, ne jurez pas et ne claquez pas les portes.
+1.4. ***Traitez tout le monde*** dans la communauté comme vous aimeriez être traité vous-même : ***avec RESPECT***. Les actions entreprises sur la plateforme peuvent avoir un impact important sur la sécurité et le confort des autres. ***La courtoisie est de mise***. Chaque membre de la communauté doit ***faire preuve de bon jugement et se comporter décemment envers les autres***. Le respect n’est pas seulement lié à ce que nous disons ; mais aussi sur la manière dont nous agissons.
 
-1.5 ***Les membres ne sont pas autorisés à endommager des biens***, tels que des véhicules, des appareils mobiles, des locaux commerciaux ou des aliments et boissons, volontairement ou en raison d'une consommation excessive d'alcool ou d'autres causes. S’ils le font, ils seront responsables des frais de nettoyage et de réparation, au-delà de l’usure normale.
+1.5 ***Tout membre de la communauté doit respecter et protéger la propriété d'autrui, qu'elle soit privée, communautaire ou publique***. Endommager ou détruire des biens est non seulement contraire à la loi, mais également aux règles de notre plateforme.
 
 1.6 ***Les comportements agressifs, conflictuels ou harcelants ne sont pas autorisés***. N'utilisez pas de langage, ne faites pas de gestes ou n'entreprenez pas d'actions qui pourraient être irrespectueuses, discriminatoires, menaçantes ou
 inapproprié.
