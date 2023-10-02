@@ -16,11 +16,11 @@
 
 1.5 ***Tout membre de la communauté doit respecter et protéger la propriété d'autrui, qu'elle soit privée, communautaire ou publique***. Endommager ou détruire des biens est non seulement contraire à la loi, mais également aux règles de notre plateforme.
 
-1.6 ***Les comportements agressifs, conflictuels ou harcelants ne sont pas autorisés***. N'utilisez pas de langage, ne faites pas de gestes ou n'entreprenez pas d'actions qui pourraient être irrespectueuses, discriminatoires, menaçantes ou
-inapproprié.
+1.6 ***Les comportements agressifs, conflictuels ou harcelants ne sont pas autorisés***. N'utilisez pas de langages, ne faites pas de gestes ou n'entreprenez pas d'actions qui pourraient être irrespectueux, discriminatoires, menaçants ou
+inappropriés.
 
-1.7 ***Les agressions sexuelles et les inconduites sexuelles de toute sorte sont interdites***, que vous connaissiez ou non la personne. C’est bien de discuter avec d’autres personnes tout en restant respectueux.
+1.7 ***Les agressions sexuelles de toute sorte sont interdites***, que vous connaissiez ou non la personne.Nous encourageons toute conversation respectueuse et paisible.
 
-1.8 Aucun membre n'est autorisé à partager son compte ou ses identifiants de connexion au compte sur la plateforme.
+1.8 Aucun membre n'est autorisé à partager son compte ou ses identifiants de connexion avec un tier.
 
-1.9 ***Les membres doivent fournir des informations exactes et honnêtes sur la plateforme***. Fournir des informations fausses ou trompeuses est contraire aux règles de notre plateforme.
+1.9 ***Tout membre est dans l'obligation de fournir des informations exactes et honnêtes sur la plateforme***. Fournir des informations fausses ou trompeuses est contraire aux règles de notre plateforme.
