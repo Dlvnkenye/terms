@@ -1,11 +1,12 @@
 <img src="https://github.com/Dlvnkenye/terms/blob/main/logo520.png"  width="128" height="128">
 
 # JiGoot Merchant Security Terms
-
-
-A marchant portal is a proprietary JiGoot user interface which allow partner to manage either their supplier accounts or branch accounts, such as JiGoot Branch app and JiGoot Marchant admin panel. 
-
-
+*Last updated* : October 2nd, 2023
+</br>
+</br>
+*<p align="center">A marchant portal is a proprietary JiGoot user interface which allow partner to manage either their supplier accounts or branch accounts, such as JiGoot Branch app and JiGoot Marchant admin panel. 
+</br>
+</br>
 ### I. Access
 
 1.1 Access to the Merchant Portal, it contents and it resources, is restricted to merchant owner and manager. **By accessing the Merchant Portal, you agree that you are directly bound by this Terms**. You also agree that these Terms are binding on your successors, affiliates, subsidiaries, and assigns. These Terms shall supersede any other terms or agreements governing your access to the Merchant Portal.
@@ -24,9 +25,3 @@ A marchant portal is a proprietary JiGoot user interface which allow partner to 
 2.3 The merchant **owner and manager** should be aware of the potential risk and threats to their data security and privacy, such as phishing, malware, identity theft, fraud, etc. They **should report any suspicious or unauthorized activity on their account or device to JiGoot immediately**.
 
 2.4 The merchant **owner and manager, should review and understand the terms and policies that govern their relationship with JiGoot**, such as the Merchant terms of service, the merchant Privacy policy, the courier background check FAQ, JiGoot community guideline, etc. **They agree to stay informed of any updates or changes to these terms and policies**.
-
-
-
-### Information
-Publication date **.**.2023
-Effective date  **.**.2023
