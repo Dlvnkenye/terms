@@ -11,7 +11,7 @@
 
 1.2 ***Discriminations regardless of it kind is prohibited on the platform***. JiGoot as a non-discriminatory platform is committed to create and sustain a safe and welcoming space for everyone, regardless of their background. Please respect the community diversity.
 
-1.3. ***Every member of our community has the responsibility to help create a safeguarding, welcoming and non-discriminatory,  environment for all JiGoot’s members***.
+1.3. ***Every member of the community has the responsibility to help create a safeguarding, welcoming and non-discriminatory,  environment for all JiGoot’s members***.
 
 1.4. ***Treat everyone*** in the JiGoot community as you would like to be treated yourself: ***with respect***. Actions taken on the platform can have a big impact on the safety and comfort of others. ***Courtesy matters***. Every member of our community should ***exercise good judgment and behave decently toward others***. Respect is not only tied to what we say; but also about how we act. For instance, be punctual; do not to shout, swear, or slam doors.
 
