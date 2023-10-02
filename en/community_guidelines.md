@@ -1,7 +1,9 @@
 <img src="https://github.com/Dlvnkenye/terms/blob/main/logo520.png" width="128" height="128">
 
 # JiGoot Community Guidelines
-
+*Last updated*: October 2nd, 2023
+</br>
+</br>
 *<p align="center">JiGoot Community Guidelines is intended to help regulate human interactions and make experiences in JiGoot Platform feel safe, respectful, and positive. While providing the basis for behavior we expect from all,  we ensure that everybody in JiGoot's community always feels safe and welcome.</p>*
 *<p align="center"> We update our guidelines regularly to address relevant behavior and risks.</p>*
 
