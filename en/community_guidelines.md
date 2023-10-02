@@ -2,8 +2,8 @@
 
 # JiGoot Community Guidelines
 
-*<p align="center">JiGoot Community Guidelines is intended to help regulate human interactions and make experiences in JiGoot Platform feel safe, respectful, and positive. The goal of this document is to ensure that everybody in the JiGoot community always feels safe and welcome, while provide the basis for behavior we expect from all in the JiGoot community. We update our guidelines regularly to address relevant behavior and risks.</p>*
-
+*<p align="center">JiGoot Community Guidelines is intended to help regulate human interactions and make experiences in JiGoot Platform feel safe, respectful, and positive. While providing the basis for behavior we expect from all,  we ensure that everybody in JiGoot's community always feels safe and welcome.</p>*
+*<p align="center"> We update our guidelines regularly to address relevant behavior and risks.</p>*
 
 
 1.1. JiGoot Community Guidelines apply to all its members, including but not limited to customers, delivery agents, owners, managers and JiGoot employees and staff. ***Failing to follow any of the terms in these guidelines constitutes a breach of your agreement*** and may result in suspension, termination, deletion of your account, revocation or reporting to the relevant authorities.
