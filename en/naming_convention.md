@@ -1,9 +1,11 @@
+<img src="https://github.com/Dlvnkenye/terms/blob/main/logo520.png" width="128" height="128">
 
-
-### JiGoot Restaurant Naming Convention Policy
-
-#### Purpose:
-This policy aims to ensure clarity, uniqueness, and legal compliance in the naming of restaurants listed on JiGoot, our food delivery platform. It outlines the criteria for restaurant names, taking into consideration legal aspects, geographical locations, and potential trademark issues.
+# JiGoot Supplier Naming Convention
+*Last updated*: January 3rd, 2024
+</br>
+</br>
+*<p align="center">This policy aims to strike a balance between legal compliance, customer satisfaction, and efficient business operations. It is essential for restaurants to understand and adhere to these guidelines to maintain a positive and legally sound presence on JiGoot.</p>*
+*<p align="center">This policy aims to ensure clarity, uniqueness, and legal compliance in the naming of restaurants listed on JiGoot, our food delivery platform. It outlines the criteria for restaurant names, taking into consideration legal aspects, geographical locations, and potential trademark issues.</p>*
 
 #### 1. Uniqueness within a City:
 To avoid customer confusion, JiGoot enforces a policy requiring each restaurant's name (referred to as `supplier.name`) to be unique within the same city. This uniqueness is enforced through the implementation of a unique constraint named `[supplier-unique-name]`.
@@ -31,4 +33,4 @@ All restaurants listed on JiGoot must adhere to these naming conventions as part
 
 ---
 
-This policy aims to strike a balance between legal compliance, customer satisfaction, and efficient business operations. It is essential for restaurants to understand and adhere to these guidelines to maintain a positive and legally sound presence on JiGoot. Please consult with legal experts to ensure full compliance with local laws and regulations.
+
